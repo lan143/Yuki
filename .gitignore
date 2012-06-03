@@ -1,6 +1,12 @@
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
+Yuki/bin
+Yuki/obj
+Yuki.ConditionGenerator/bin
+Yuki.ConditionGenerator/obj
+Yuki.DataFinder/bin
+Yuki.DataFinder/obj
+Yuki.StringFinder/bin
+Yuki.StringFinder/obj
 
 # mstest test results
 TestResults
