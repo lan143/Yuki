@@ -2,7 +2,7 @@ Yuki
 ====
 
 Copyright (C) 2012 WoW-Mig <http://www.wow-mig.ru/>
-This file is free software; as a special exception the author gives
+This is free software; as a special exception the author gives
 unlimited permission to copy and/or distribute it, with or without
 modifications, as long as this notice is preserved.
 
